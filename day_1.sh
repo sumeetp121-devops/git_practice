@@ -5,3 +5,5 @@ echo "Files in the current directory:"
 ls -l
 # finally, it will print a message indicating the script has completed
 echo "Script execution completed."
+# end of script
+exit 0
